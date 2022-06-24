@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\cypress\\MyMixit"
+		},
+		{
+			"path": "..\\..\\cypress\\NewACIS"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
